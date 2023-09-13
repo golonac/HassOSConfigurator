@@ -50,6 +50,7 @@ partitions=(
   vda1
   sda1
   sdb1
+  sdc1
   mmcblk0p1
   mmcblk1p1
   nvme0n1p1
